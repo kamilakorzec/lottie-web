@@ -1,6 +1,6 @@
 {
   "name": "ssr-lottie-web",
-  "version": "0.0.1",
+  "version": "0.0.4",
   "description": "Fork of lottie-web supporting SSR",
   "main": "./build/player/lottie.js",
   "repository": {
