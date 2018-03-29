@@ -5,7 +5,7 @@
   "main": "./build/player/lottie.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/airbnb/lottie-web.git"
+    "url": "https://github.com/kamilakorzec/ssr-lottie-web.git"
   },
   "scripts": {
     "start": "gulp buildAll"
